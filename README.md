@@ -1,6 +1,6 @@
-# Dorkcoin Core Website
+# Dorkcoin Website
 
-React and Vite site for Dorkcoin Core. The download center reads published releases and downloadable assets directly from the GitHub Releases API.
+React and Vite site for Dorkcoin. The download center reads published releases and downloadable assets directly from the GitHub Releases API.
 
 ## Development
 
